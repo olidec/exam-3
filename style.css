@@ -1,0 +1,11 @@
+.loweralpha {
+    list-style-type: lower-alpha;
+}
+
+.lowerlatin {
+    list-style-type: lower-roman;
+}
+
+#tinkerbell {
+    position: absolute;
+}
