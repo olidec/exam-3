@@ -1,5 +1,6 @@
 .loweralpha {
     list-style-type: lower-alpha;
+
 }
 
 .lowerlatin {
@@ -8,4 +9,11 @@
 
 #tinkerbell {
     position: absolute;
+}
+.name{
+color:blue;
+}
+
+body{
+    background-color: lightgreen;
 }
