@@ -9,3 +9,10 @@
 #tinkerbell {
     position: absolute;
 }
+body {
+    background-color : lightgreen;
+
+}
+.name {
+    color : blue;
+}
