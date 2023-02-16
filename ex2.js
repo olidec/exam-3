@@ -18,3 +18,6 @@ console.log(arr);
     function changeText() {
         var ex2f = document.getElementById('78');
         }
+
+        ctx.drawImage(Tinkerbell, TinkerbellX,50,50,50);
+        tinkerbellX += changeX;
