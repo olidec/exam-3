@@ -1,5 +1,6 @@
 .loweralpha {
     list-style-type: lower-alpha;
+
 }
 
 .lowerlatin {
@@ -7,6 +8,7 @@
 }
 
 #tinkerbell {
+    width: 50px; 
     position: absolute;
 }
 
