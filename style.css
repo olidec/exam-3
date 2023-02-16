@@ -1,7 +1,11 @@
 .loweralpha {
     list-style-type: lower-alpha;
+ 
 }
-
+body {
+    color: rgb(88, 75, 232);
+    background-color: rgb(164, 255, 164);
+  }
 .lowerlatin {
     list-style-type: lower-roman;
 }
