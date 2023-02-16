@@ -31,7 +31,7 @@ console.log(b[b.length - 1]);
 
 b = [54, 21, 65, 32, 43, 76, 87, 98];
 
-//All above is code to see if my answers are right
+
 
 let exTwo = document.getElementById("ex2f");
 
