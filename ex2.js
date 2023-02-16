@@ -1,3 +1,3 @@
 let b = [54,21,65,32,43,76,87,98]
-
-b[4] = #ex2f
+ex2f = document.getElementById("ex2f")
+b[4] = ex2f
