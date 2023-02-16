@@ -13,6 +13,8 @@ let myObject = {
         return `${this.getFullName()} is ${this.age} years old and has lost ${this.lostBoys} boys`;
     }
 }
+myObject.attackHook();
+
 
 let text = myObject.summary();
 document.getElementById("testLine").innerHTML = text;
