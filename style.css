@@ -6,8 +6,9 @@
     list-style-type: lower-roman;
 }
 
-#tinkerbell {
+img {
     position: absolute;
+    width:50px;
 }
 
 .name {

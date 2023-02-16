@@ -14,3 +14,7 @@ document.getElementById("ex4").innerHTML = b.sort().pop();
 
 const o = ['i am finished']
 document.getElementById("ex2f").innerHTML = o;
+
+let Numbers = [54 + 21 + 65 + 32 + 43 + 76 + 87 + 98]
+document.getElementById("ex8").innerHTML = Numbers;
+
