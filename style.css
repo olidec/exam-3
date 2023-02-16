@@ -9,3 +9,7 @@
 #tinkerbell {
     position: absolute;
 }
+.name{
+    color: blue;
+    background-color: lightgreen;
+}
