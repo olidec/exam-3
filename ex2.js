@@ -35,4 +35,4 @@ b = [54, 21, 65, 32, 43, 76, 87, 98];
 
 let exTwo = document.getElementById("ex2f");
 
-exTwo.innerHTML = b[5];
+exTwo.innerHTML = b[4];
